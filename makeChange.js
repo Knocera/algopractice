@@ -32,3 +32,6 @@ for (let i = 0; i < denoms.length; i++){
 console.log(ways)
 return ways[n]
 }
+
+
+
