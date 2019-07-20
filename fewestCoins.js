@@ -18,7 +18,7 @@ function minNumberOfCoinsForChange(n, denoms) {
     console.log(ways)
 
   }
-
+ww
 
   }
   return ways[n]
